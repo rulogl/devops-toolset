@@ -1,4 +1,4 @@
 ---
-## Bienvenido a mi bolg
+## Bienvenido a mi blog
 ---
 
